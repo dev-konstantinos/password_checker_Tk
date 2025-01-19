@@ -1,4 +1,4 @@
-**Password Checker with Reset and Change Functionality (Tkinter)**
+**Password Checker with Reset and Change Functionality (German version)**
 
 A simple password checker application built using Tkinter for Python. This program provides access to the main application after entering a valid password. It also includes features for resetting and changing the password directly from the interface.
 
@@ -13,8 +13,8 @@ A simple password checker application built using Tkinter for Python. This progr
 
 1. When the application is launched, you will be prompted to enter a password.
 2. If the password is correct, you will be granted access to the main program.
-3. If you want to change your password, click the "Change" button and provide the current password and the new one.
-4. If you forget your password, click the "Reset" button and answer the secret question to reset it.
+3. If you want to change your password, click the "Ändern" button and provide the current password and the new one.
+4. If you forget your password, click the "Zurücksetzen" button and answer the secret question to reset it.
 
 **Requirements**
 
