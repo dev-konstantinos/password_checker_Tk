@@ -25,7 +25,7 @@ A simple password checker application built using Tkinter for Python. This progr
 
 Clone this repository to your local machine:
    
-   git clone https://github.com/yourusername/password-checker-tkinter.git
+   git clone https://github.com/dev-konstantinos/password_checker_Tk/blob/main/password_checker.py
 
 Run:
 
